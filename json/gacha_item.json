@@ -1,0 +1,25 @@
+[
+    { "gacha_id": 18001, "item_id": 12001, "drop_rate": 10 },
+    { "gacha_id": 18001, "item_id": 12002, "drop_rate": 10 },
+    { "gacha_id": 18001, "item_id": 12003, "drop_rate": 7 },
+    { "gacha_id": 18001, "item_id": 12004, "drop_rate": 25 },
+    { "gacha_id": 18001, "item_id": 12005, "drop_rate": 7 },
+    { "gacha_id": 18001, "item_id": 12006, "drop_rate": 3 },
+    { "gacha_id": 18001, "item_id": 12007, "drop_rate": 30 },
+    { "gacha_id": 18001, "item_id": 12008, "drop_rate": 15 },
+    { "gacha_id": 18001, "item_id": 12010, "drop_rate": 10 },
+    { "gacha_id": 18001, "item_id": 12011, "drop_rate": 10 },
+
+    { "gacha_id": 18002, "item_id": 12001, "drop_rate": 7 },
+    { "gacha_id": 18002, "item_id": 12002, "drop_rate": 7 },
+    { "gacha_id": 18002, "item_id": 12003, "drop_rate": 20 },
+    { "gacha_id": 18002, "item_id": 12004, "drop_rate": 30 },
+    { "gacha_id": 18002, "item_id": 12005, "drop_rate": 20 },
+    { "gacha_id": 18002, "item_id": 12006, "drop_rate": 12 },
+    { "gacha_id": 18002, "item_id": 12007, "drop_rate": 10 },
+    { "gacha_id": 18002, "item_id": 12008, "drop_rate": 6 },
+    { "gacha_id": 18002, "item_id": 12010, "drop_rate": 8 },
+    { "gacha_id": 18002, "item_id": 12011, "drop_rate": 8 },
+    { "gacha_id": 18002, "item_id": 12012, "drop_rate": 5 },
+    { "gacha_id": 18002, "item_id": 12013, "drop_rate": 2 }
+  ]

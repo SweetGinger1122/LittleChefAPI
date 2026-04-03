@@ -1,0 +1,34 @@
+[
+    {
+      "player_id": 250001,
+      "username": "SweetGinger",
+      "password": "123456",
+      "jelly": 150,
+      "coin": 25000,
+      "candy": 300
+    },
+    {
+      "player_id": 250002,
+      "username": "G3L4TOz",
+      "password": "123456",
+      "jelly": 300,
+      "coin": 30000,
+      "candy": 350
+    },
+    {
+      "player_id": 250003,
+      "username": "1",
+      "password": "1",
+      "jelly": 45000,
+      "coin": 1600,
+      "candy": 153
+    },
+     {
+      "player_id": 250004,
+      "username": "2",
+      "password": "2",
+      "jelly": 50012,
+      "coin": 50285,
+      "candy": 47000
+    }
+  ]

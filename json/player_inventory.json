@@ -1,0 +1,13 @@
+[
+    { "player_id": 250001, "item_id": 12001, "quantity": 1 },
+    { "player_id": 250001, "item_id": 12002, "quantity": 9 },
+    { "player_id": 250001, "item_id": 12010, "quantity": 1 },
+    { "player_id": 250001, "item_id": 12011, "quantity": 1 },
+    { "player_id": 250001, "item_id": 12002, "quantity": 8 },
+
+    { "player_id": 250002, "item_id": 12002, "quantity": 2 },
+
+    { "player_id": 250003, "item_id": 12001, "quantity": 2 },
+    { "player_id": 250003, "item_id": 12002, "quantity": 1 }
+    
+  ]

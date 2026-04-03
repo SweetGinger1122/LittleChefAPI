@@ -1,0 +1,6 @@
+[
+    {"shop_type_id" : 13001, "shop_type_name" : "Utillity"},
+    {"shop_type_id" : 13002, "shop_type_name" : "Decoration"},
+    {"shop_type_id" : 13003, "shop_type_name" : "Gacha Shop"},
+    {"shop_type_id" : 13004, "shop_type_name" : "Jelly"}
+]

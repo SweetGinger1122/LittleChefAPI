@@ -1,0 +1,5 @@
+[
+    { "item_type_id": 11001, "item_type_name": "Utility", "can_keep_in_inventory": true },
+    { "item_type_id": 11002, "item_type_name": "Decoration", "can_keep_in_inventory": true },
+    { "item_type_id": 11003, "item_type_name": "companion", "can_keep_in_inventory": false }
+]

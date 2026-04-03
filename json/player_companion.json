@@ -1,0 +1,14 @@
+[
+    { "player_id": 250001, "companion_id": 16001, "exp": 0, "is_equipped": true },
+    { "player_id": 250001, "companion_id": 16002, "exp": 0, "is_equipped": false },
+    { "player_id": 250001, "companion_id": 16004, "exp": 0, "is_equipped": false },
+    { "player_id": 250001, "companion_id": 16003, "exp": 0, "is_equipped": false },
+    { "player_id": 250001, "companion_id": 16006, "exp": 0, "is_equipped": false },
+
+    { "player_id": 250003, "companion_id": 16003, "exp": 0, "is_equipped": false },
+    { "player_id": 250003, "companion_id": 16002, "exp": 0, "is_equipped": false },
+
+    { "player_id": 250004, "companion_id": 16004, "exp": 0, "is_equipped": true },
+    { "player_id": 250004, "companion_id": 16003, "exp": 0, "is_equipped": false }
+    
+  ]
